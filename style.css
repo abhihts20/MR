@@ -91,11 +91,11 @@ nav ul li a {
 
     nav ul {
         max-height: 0px;
-        background: #000;
+        background: #ffffff;
     }
 
     nav.black ul {
-        background: #000;
+        background: #ffffff;
     }
 
     .showing {
